@@ -1,5 +1,5 @@
-import CustomEdge from "./components/custom-edge/page";
+import CustomSvgEdge from "./components/custom-svg-edge/page";
 
 export default function App() {
-  return <CustomEdge />;
+  return <CustomSvgEdge />;
 }
