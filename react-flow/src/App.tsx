@@ -1,5 +1,5 @@
-import CustomSvgEdge from "./components/custom-svg-edge/page";
+import EdgeLabels from "./components/edge-labels";
 
 export default function App() {
-  return <CustomSvgEdge />;
+  return <EdgeLabels />;
 }
